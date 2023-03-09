@@ -9,5 +9,5 @@ This is a solo project to test the knowledge I learned from Scrimba's <a href="h
 <li>Importing social media icons using FontAwesome and import Google fonts</li>
 <li>Making the page fix-width and make the footer stick at the bottom while changing the page size</li>
 </ul>
-##How it looks like
+## How it looks like
 <img src="https://user-images.githubusercontent.com/24996005/223933361-f7493301-381f-48d0-8850-a7bf0769becc.png" />
