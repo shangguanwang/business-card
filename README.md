@@ -10,4 +10,4 @@ This is a solo project to test the knowledge I learned from Scrimba's <a href="h
 <li>Making the page fix-width and make the footer stick at the bottom while changing the page size</li>
 </ul>
 ##How it looks like
-![Screen Shot 2023-03-08 at 11 56 22 PM](https://user-images.githubusercontent.com/24996005/223933361-f7493301-381f-48d0-8850-a7bf0769becc.png)
+<img src="https://user-images.githubusercontent.com/24996005/223933361-f7493301-381f-48d0-8850-a7bf0769becc.png" />
