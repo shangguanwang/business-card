@@ -1,0 +1,86 @@
+* {
+  text-align: center;
+}
+
+.App {
+  background-color:#2C635B;
+  color:#FDF2DF;
+  width:40%;
+  height:100vh;
+  margin:auto; /*put in the front */
+  border-radius: 7px;
+  display: flex;
+  flex-direction: column;
+  max-width: 420px; /*set fix width while resizing the page */
+  min-width:370px; /*set fix width while resizing the page */
+
+} 
+
+
+h1, h3 {
+  font-family: 'Inknut Antiqua', serif;
+}
+
+
+/* Header formatting */
+.h1-name {
+  margin:auto;
+  padding-bottom: 0;
+}
+
+.short-description {
+  margin-top: -10px;
+}
+
+.profile-img {
+  margin-top: 40px;
+  border-radius: 30% / 30%; /* turn to an oval shape */
+}
+
+/* Body formatting */
+body {
+  margin-top:0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height:100vh;
+}
+
+
+.email-button {
+  background-color: #FFD9A0;
+  font-size:15px;
+  padding: 15px 25px;
+  border-radius:8px;
+  border: lightgrey;
+  margin:10px;
+  width:200px;
+  font-family: 'Montserrat', serif;
+}
+
+.email-button:hover {
+  cursor:pointer;
+}
+
+.sub-heading {
+  margin-top:0;
+}
+
+.self-intro-para, .interests-para {
+  margin-top:-20px;
+}
+
+
+/* Footer formatting */
+footer {
+  margin-top:auto; /*make the footer stick at the bottom even when putting the page to full screen */
+  padding:20px;
+  background-color: #182E2B;
+
+}
+
+footer > a {
+  padding-left:20px; /*make some space between icons */
+  font-size:30px; /*increase size of icon */
+  color: #FFF2DF;
+}
+
