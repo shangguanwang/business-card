@@ -1,5 +1,7 @@
 # business-card - 1st React App
 This is a solo project to test the knowledge I learned from Scrimba's <a href="https://scrimba.com/playlist/pKNqYAZ" target="_blank">React course</a>.
+<br>
+You can check out the live page on <a href="https://shangguan-business-card.netlify.app/" target="_blank">Netlify</a>.
 
 ## What I learned:
 <ul>
